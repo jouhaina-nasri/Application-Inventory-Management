@@ -1,4 +1,4 @@
-"# Application-gestion-de-stock" 
+#Application of Inventory Management 
 ---
 
 * Langage C
