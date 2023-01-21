@@ -1,5 +1,4 @@
-#Application of Inventory Management 
+#Application-Inventory-Management
 ---
-
 ## Langage
 - langage C
